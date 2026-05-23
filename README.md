@@ -82,18 +82,25 @@ PINECONE_API_KEY=your_api_key
 Run Application
 uvicorn app:app --reload
 
-OR
-
-streamlit run app.py
-<img width="1904" height="916" alt="Screenshot 2026-05-24 011225" src="https://github.com/user-attachments/assets/597264fa-5d69-4616-8083-c79bfb1d24bc" />
-
-
-Add:
-
 dashboard screenshots
+<img width="1904" height="916" alt="Dashboard" src="https://github.com/user-attachments/assets/136207a6-b8ad-4565-80d0-5218c90f26b7" />
+
+
+KPI Forecasting
+<img width="1918" height="932" alt="KPI Forecasting" src="https://github.com/user-attachments/assets/daa987da-df75-472c-940e-24e37bba92d1" />
+
 chatbot UI
-analytics views
-retrieval/search workflow images
+<img width="1899" height="915" alt="Chat whit Assistant" src="https://github.com/user-attachments/assets/f24741e9-3381-40cf-afa5-ed59a620a9f3" />
+
+
+Policy Summarizer
+<img width="1909" height="924" alt="Policy Summarizer" src="https://github.com/user-attachments/assets/ad67d6a3-7b6d-4ca5-b535-fb611b504994" />
+
+
+Sustainability Report Generator
+<img width="1903" height="916" alt="Sustainability Report Generator" src="https://github.com/user-attachments/assets/cd344d9d-9936-4e35-9cad-5652830db116" />
+
+
 🔮 Future Improvements
 Multi-agent orchestration workflows
 LangGraph integration
