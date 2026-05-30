@@ -106,7 +106,8 @@ Yerragalla Divya
 B.Tech – Artificial Intelligence & Machine Learning
 
 GitHub: https://github.com/Divya-yerragalla
-LinkedIn: https://linkedin.com/in/yerragalla-divya
+
+LinkedIn: https://www.linkedin.com/in/yerragalla-divya-bb3335357/
 
 ⭐ Acknowledgements
 
