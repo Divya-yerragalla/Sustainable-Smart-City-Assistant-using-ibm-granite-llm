@@ -34,6 +34,7 @@ Response Generation
     ↓
 Analytics / Reporting / Insights
 ⚙️ Key Functionalities
+
 🔹 Conversational AI
 
 Enables users to interact with smart city datasets and sustainability policies using natural language queries.
