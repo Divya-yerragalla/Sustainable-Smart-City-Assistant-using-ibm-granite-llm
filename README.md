@@ -75,12 +75,6 @@ Install Dependencies
 pip install -r requirements.txt
 Configure Environment Variables
 
-Create a .env file:
-
-IBM_API_KEY=your_api_key
-PINECONE_API_KEY=your_api_key
-Run Application
-uvicorn app:app --reload
 
 dashboard screenshots
 <img width="1904" height="916" alt="Dashboard" src="https://github.com/user-attachments/assets/136207a6-b8ad-4565-80d0-5218c90f26b7" />
