@@ -62,12 +62,7 @@ Policy summarization
 Semantic document retrieval
 AI-assisted decision support
 Environmental trend analysis
-🧪 Installation
-Clone Repository
-git clone https://github.com/YOUR_USERNAME/smartcity-ai-assistant.git
-cd smartcity-ai-assistant
-Create Virtual Environment
-python -m venv venv
+
 Windows
 venv\Scripts\activate
 Linux/Mac
